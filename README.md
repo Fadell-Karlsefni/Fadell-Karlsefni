@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Fadill👋 
 
 <!--
 **Fadell-Karlsefni/Fadell-Karlsefni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A passionate student from Indonesia
+
+ I’m currently learning **Go language** and **Laravel Framework**
+
