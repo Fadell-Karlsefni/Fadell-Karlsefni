@@ -19,7 +19,7 @@ A passionate student from Indonesia
 
 I’m currently learning **Go language** and **Laravel Framework**
 
-##### 💻 Tech I Use :
+### 💻 Tech I Use :
 <p>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -31,7 +31,7 @@ I’m currently learning **Go language** and **Laravel Framework**
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-##### Tools I use
+#### Tools I use
 <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,git" />
 
 ##### Connect with me
@@ -39,6 +39,6 @@ I’m currently learning **Go language** and **Laravel Framework**
 <a href="https://instagram.com/fadiielll_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
 
-##### My Github Stats
+### My Github Stats
 ![Fadillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark&layout=compact)
