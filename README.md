@@ -22,6 +22,7 @@ I’m currently learning **Go language** and **Laravel Framework**
 ### 💻 Tech I Use :
 <p>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -41,4 +42,5 @@ I’m currently learning **Go language** and **Laravel Framework**
 
 ### My Github Stats
 ![Fadillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark&layout=compact)
