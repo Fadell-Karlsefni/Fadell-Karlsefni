@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 A passionate student from Indonesia
 
+Currently a Software Engineering student at SMKN 4 Banjarmasin
+
 I’m currently learning **Go language** and **Laravel Framework**
 
 ### 💻 Tech I Use :
