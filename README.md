@@ -39,4 +39,6 @@ I’m currently learning **Go language** and **Laravel Framework**
 ### 📊 My Github Stats :
 ![Fadillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark)  
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fadell-Karlsefni&theme=chartreuse-dark)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark&layout=compact)
