@@ -1,14 +1,15 @@
 ## Hi I'm Fadill👋
 
-A passionate student from Indonesia  
+A passionate student from Indonesia
 
-Currently a Software Engineering student at SMKN 4 Banjarmasin  
+Currently a Software Engineering student at SMKN 4 Banjarmasin
 
 I’m currently learning **Go language** and **Laravel Framework**
 
 ---
 
 ### 💻 Tech Stack :
+
 <p>
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -23,6 +24,7 @@ I’m currently learning **Go language** and **Laravel Framework**
 </p>
 
 ### ⚡ Frameworks, Libraries & Tools :
+
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,git,github,vscode,androidstudio" />
 </p>
@@ -30,6 +32,7 @@ I’m currently learning **Go language** and **Laravel Framework**
 ---
 
 ##### 📫 Connect with me :
+
 <a href="https://instagram.com/fadiielll_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
@@ -37,8 +40,20 @@ I’m currently learning **Go language** and **Laravel Framework**
 ---
 
 ### 📊 My Github Stats :
-![Fadillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fadell-Karlsefni&theme=chartreuse-dark)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark" alt="Fadillah's GitHub stats"/>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Fadell-Karlsefni&theme=chartreuse-dark" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadell-Karlsefni&show_icons=true&theme=chartreuse-dark&layout=compact" alt="Top Langs"/>
+</p>
