@@ -26,7 +26,7 @@ I’m currently learning **Go language** and **Laravel Framework**
 ### ⚡ Frameworks, Libraries & Tools :
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,tailwind,bootstrap,git,github,vscode,androidstudio" />
 </p>
 
 ---
