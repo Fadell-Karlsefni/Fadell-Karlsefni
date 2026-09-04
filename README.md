@@ -2,7 +2,7 @@
 
 A passionate student from Indonesia
 
-Currently a Software Engineering student at SMKN 4 Banjarmasin
+Currently a Software Engineering student and Electrical Engginering Student at Politeknik Elektronika Negeri Surabaya
 
 I’m currently learning **Go language** and **Laravel Framework**
 
